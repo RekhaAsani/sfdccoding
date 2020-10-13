@@ -1,0 +1,2021 @@
+[
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1594936228063,
+            "changeTime": 1594936228063,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1594936228069,
+            "changeTime": 1594936228069,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default",
+            "isDirectory": true,
+            "size": 480,
+            "modifiedTime": 1594936228072,
+            "changeTime": 1594936228072,
+            "contentHash": "6b1aa1cb21fef5eaf1378597d18b5ef9913f241a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1594936186063,
+            "changeTime": 1594936186063,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1594936186063,
+            "changeTime": 1594936186063,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1594949069309,
+            "changeTime": 1594949069309,
+            "contentHash": "ef0507c10280130c835812c3487cdd5254f9a854",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/contentassets",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1594936186063,
+            "changeTime": 1594936186063,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1594936186064,
+            "changeTime": 1594936186064,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1594936186064,
+            "changeTime": 1594936186064,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1594950939382,
+            "changeTime": 1594950939382,
+            "contentHash": "7bdc12b113bbab120d3e396e19b83a065ff65fea",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1594949145159,
+            "changeTime": 1594949145159,
+            "contentHash": "b3550dbd70a41d3bc526d9c83fbe19938e944837",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230353,
+            "contentHash": "9ee5b46522eaf65b2a1c23cccd618be147b183ea",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/Address_Book__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/Address_Book__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2050,
+            "modifiedTime": 1567778131000,
+            "changeTime": 1594936230353,
+            "contentHash": "ba784c5b6a1f71f327c75498cde31529eeb09b09",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/fields",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/fields",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230352,
+            "contentHash": "4f925b02a077897c7dfaea5750d6f1e592daed57",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/fields/City__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/fields/City__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 438,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230351,
+            "contentHash": "cdbdd29c7d6415b8611dc5ec66c332a72585e2b3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/fields/Country__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/fields/Country__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 444,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230350,
+            "contentHash": "eb5eb94758e79f0c0ecb5e89a05a358010323581",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/fields/Postal_Code__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/fields/Postal_Code__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 452,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230352,
+            "contentHash": "e814f97f3552421eee8e00ac7a4aa78d0bcab653",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/fields/State__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/fields/State__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 451,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230350,
+            "contentHash": "fa863b8f810b45bd0cebf2ccc8c3e166c213c676",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/fields/Street__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/fields/Street__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230352,
+            "contentHash": "4b263052893d81068a27422d232010fb452db419",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/fields/User__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/fields/User__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 482,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230351,
+            "contentHash": "8755a8d81a10eaa2d5231a2c35e30c6892961233",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/listViews",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230349,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Address_Book__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230349,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230418,
+            "contentHash": "7a4c021b0ae21e9d6eb2f0ea0a468c4166df7742",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/Beer_Order__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/Beer_Order__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2134,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230406,
+            "contentHash": "a4e17ab548d5ca72de6e12f2ffff4ec61429e3b2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields",
+            "isDirectory": true,
+            "size": 576,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230418,
+            "contentHash": "fa98b10c6567d55e7a5096a7c9d1869905d69322",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Beer__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Beer__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 595,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230411,
+            "contentHash": "fe79336f4b40806deab9aca9f900c92278ca51b8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Billing_City__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Billing_City__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 416,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230408,
+            "contentHash": "a0041a95fc284f38578649143ae56c3cf8b98c55",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Billing_Country__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Billing_Country__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 421,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230410,
+            "contentHash": "90540511e0f4ef2cf9cb54e7cd947b9155450b35",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Billing_Postal_Code__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Billing_Postal_Code__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 429,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230407,
+            "contentHash": "9dcd62fb2fb62a03df7e558d6e4236461c6526b0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Billing_Same_as_Shipping__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Billing_Same_as_Shipping__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 354,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230409,
+            "contentHash": "165aca28a690e4f629f2380940bd0c6ee4b2d1ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Billing_State__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Billing_State__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 418,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230417,
+            "contentHash": "981c0110cc879e12669498bfec7ff5fa947c6fb0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Billing_Street__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Billing_Street__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 420,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230412,
+            "contentHash": "64ae81c0f327c87786c8df50a24fd993a33038ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Order_Amount__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Order_Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 372,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230411,
+            "contentHash": "fd0aaccbe7f89f2c8dcc4f099635b26734fc219d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Ordered_By__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Ordered_By__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 454,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230410,
+            "contentHash": "7c052fe511391e986747565325fdd1975bad02bb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Ordered_Quantity__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Ordered_Quantity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 405,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230413,
+            "contentHash": "3b33a0552457e87e56d27a7f77b5e28fec654602",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Shipping_City__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Shipping_City__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 417,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230418,
+            "contentHash": "941cee3114b22324c66d474ae2aad9a1be59ae60",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Shipping_Country__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Shipping_Country__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 423,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230409,
+            "contentHash": "886b630ad9fbe992166127c87dce749f80bb6de3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Shipping_Postal_Code__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Shipping_Postal_Code__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 431,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230416,
+            "contentHash": "1b3229116f628f5d552e9577f3eb9a31c8581983",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Shipping_State__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Shipping_State__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 420,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230413,
+            "contentHash": "a902efae05e95d5dcb414dd8a4b7c38c3eb682d9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Shipping_Street__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Shipping_Street__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 422,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230417,
+            "contentHash": "dbb2b89ee9854fc25d5133d009e421eba7f44c47",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Status__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1142,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230412,
+            "contentHash": "fec989c1de22bca2fa4a9607beb79659594ba3bf",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/listViews",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230406,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer_Order__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1568113007000,
+            "changeTime": 1594936230406,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230468,
+            "contentHash": "d05e42112dc9131a4e0f103a936a6c4b091dbb35",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/Beer__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/Beer__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 1993,
+            "modifiedTime": 1567778170000,
+            "changeTime": 1594936230461,
+            "contentHash": "bcb8e18a8157188ce8959cd3055ad548f6695da6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields",
+            "isDirectory": true,
+            "size": 384,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230467,
+            "contentHash": "7b2f3b75b51ef07a6764c93ec7075b95503d9a64",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/Alcohol__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/Alcohol__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 363,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230465,
+            "contentHash": "2fbe1eca95d1fe09f5659e97668f742151af52e9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/Consumed_Quantity__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/Consumed_Quantity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 478,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230466,
+            "contentHash": "143ea4ea49a08560d26627363b105751c2b16d8b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/Id__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/Id__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 395,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230465,
+            "contentHash": "43aef5a2b6920c5b51d138bf64dc1f90d96eeeea",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/Image__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/Image__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 349,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230466,
+            "contentHash": "3b24d6e7f4073b78de3064a26c0785ff557086a0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/Price__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/Price__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 358,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230463,
+            "contentHash": "58521aeb2154a298b83c3472cf60779e671e5843",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/Remaining_Quantity__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/Remaining_Quantity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 536,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230464,
+            "contentHash": "d47d18d816ad070827cd26bf7a73e8e5544436b6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/Tags__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/Tags__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 399,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230464,
+            "contentHash": "88ecdc544a10e6cf5439952bc672ebe8494be813",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/Total_Quantity__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/Total_Quantity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 401,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230467,
+            "contentHash": "2c1290354257f1e2f19a6375f440f7fd2cd01590",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/brewery_Name__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/brewery_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 416,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230467,
+            "contentHash": "13ffb2ddc6e31044e66c705737e88c3cec07615a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/brewery_id__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/fields/brewery_id__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 411,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230463,
+            "contentHash": "0fe60fae37015f2cdb36256ae6f11393b864edd5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/listViews",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230462,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Beer__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 409,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230462,
+            "contentHash": "63849a4bb6d21c18362bb3393a3e5671d04f7a8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230365,
+            "contentHash": "fd2e2bfe7b8d1f9076a6658d47ff1aa0c375b492",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c/Cart_Item__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c/Cart_Item__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2123,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230361,
+            "contentHash": "a4ae65fd3a0ec7007651d86b01acf1297180c086",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c/fields",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c/fields",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230365,
+            "contentHash": "21aab10f5ea163046b99b89cb607bce404bf07ef",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c/fields/Beer__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c/fields/Beer__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 593,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230364,
+            "contentHash": "72a394b498f69cd1dab360c1f64ab5a7ec4f2304",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c/fields/Cart__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c/fields/Cart__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 593,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230363,
+            "contentHash": "4c7546655031bd0b26d9afaf4ef5163beecb2669",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c/fields/Item_Amount__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c/fields/Item_Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 370,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230363,
+            "contentHash": "38dd36f20b5b9419650d4529b57fd6e89a6c3b23",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c/fields/Item_Quantity__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c/fields/Item_Quantity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 399,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230364,
+            "contentHash": "f2b7d8964c21c89d08dc31f48c7a34ba024c2702",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c/fields/Total_Amount__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c/fields/Total_Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 494,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230365,
+            "contentHash": "4e2c5e4e4907de7c991146aadb8b2cc4d8944c66",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c/listViews",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230362,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart_Item__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230362,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230451,
+            "contentHash": "e05d137cc74a657436e36c00dbb78d168c774fc8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/Cart__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/Cart__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2154,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230432,
+            "contentHash": "322fb4acdc24d95a23b0dd6d4e27d15d81800ec9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields",
+            "isDirectory": true,
+            "size": 416,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230451,
+            "contentHash": "e6059e132882ea0bd64726b9015c140e8130a965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Billing_Address__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Billing_Address__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 579,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230439,
+            "contentHash": "5a7773ca8683f17a44a814b93aca3faacce5d98c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Cart_Id__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Cart_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 445,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230443,
+            "contentHash": "ef4474140175d6725007ac2e513f9381e11995e7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Cart_Status__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Cart_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1014,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230441,
+            "contentHash": "7e0e21a877ca6fd2535a31b8098b5b13529b98bb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Coupon_Applied__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Coupon_Applied__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230450,
+            "contentHash": "a400e6d57075e1fb461943b2ab2d58a81e4715b3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Coupon_Discount__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Coupon_Discount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 521,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230449,
+            "contentHash": "7a10a548b034824d1bb8288ec68cc28e249152a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Coupon__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Coupon__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 627,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230442,
+            "contentHash": "75cebc2a834ba0edebc062bbd782e7771190fc8c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Is_Active__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Is_Active__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 363,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230440,
+            "contentHash": "4ac20d3aaf16bbbe9d895e65739b0b404fe492a0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Shipping_Address__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Shipping_Address__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 555,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230441,
+            "contentHash": "8a788012306b597b465d2dbaf4d13aae15cf557f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Total_Amount__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Total_Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 505,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230444,
+            "contentHash": "4012d2645721a7853d9fc66b6cab7b0804b2e132",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Total_Discount__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/Total_Discount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 415,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230451,
+            "contentHash": "92046bf8cd23244d391a5fa343a49a996297cc66",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/User__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/fields/User__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 475,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230443,
+            "contentHash": "16c823dc61428dfb91c097298fab43f155b3f673",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/listViews",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/listViews",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230438,
+            "contentHash": "4249d74d1bd397963faa8bdf5a9144185c5f5424",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230438,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/listViews/Todays_Cart.listView-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Cart__c/listViews/Todays_Cart.listView-meta.xml",
+            "isDirectory": false,
+            "size": 758,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230437,
+            "contentHash": "3abb33b1592f514461db8278926208e8bc3eaeae",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230396,
+            "contentHash": "624bf883bcd0f4b2a875cff242deea87929e28ac",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/Coupon__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/Coupon__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2105,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230396,
+            "contentHash": "3288ffc744081e485c1272b25c7ca27cd37627ab",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/fields",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/fields",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230395,
+            "contentHash": "3376b2c8332c5fcd1d802fe99c0b612ee2b51b79",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/fields/Coupon_Used__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/fields/Coupon_Used__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 396,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230395,
+            "contentHash": "897b4c2f36b81ac1848a48eec418f5b121851d2b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/fields/Expired_In_Time__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/fields/Expired_In_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 375,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230395,
+            "contentHash": "e8f049df30b8b20755555c130c00b33a10df5e6c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/fields/Expired__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/fields/Expired__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 396,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230393,
+            "contentHash": "3f06de4a423f6746cb7b7561957c981bade57f78",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/fields/Price__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/fields/Price__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 358,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230393,
+            "contentHash": "a0ed16c563f340e10853f57556c1e3c5c9264e93",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/fields/Remaining_Quantity__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/fields/Remaining_Quantity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 530,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230394,
+            "contentHash": "5f43abbd25d3a0f97fe15dc35f091d620b8d688f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/fields/Total_Quantity__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/fields/Total_Quantity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 401,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230395,
+            "contentHash": "f17da808e881ad8c42d037ce52fdd0d025aec1ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/listViews",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230392,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Coupon__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 350,
+            "modifiedTime": 1567777579000,
+            "changeTime": 1594936230392,
+            "contentHash": "78166a8666ae31c3eafc9391a4a5b24c63af983e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order_Item__c",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order_Item__c",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1568488615000,
+            "changeTime": 1594936230340,
+            "contentHash": "e10161eb7f876fd8fce6d267270b6801d935c7ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order_Item__c/Order_Item__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order_Item__c/Order_Item__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2163,
+            "modifiedTime": 1568113884000,
+            "changeTime": 1594936230340,
+            "contentHash": "7aefe5266801e13f3e2da8d22bcac70f8df3b876",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order_Item__c/fields",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order_Item__c/fields",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1568460211000,
+            "changeTime": 1594936230339,
+            "contentHash": "e9baa924f8e477fc102795b9cf59867517ff41f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order_Item__c/fields/Beer__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order_Item__c/fields/Beer__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 595,
+            "modifiedTime": 1568113884000,
+            "changeTime": 1594936230338,
+            "contentHash": "92684cee76b543e0f5114de8870fd49a5d1cb4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order_Item__c/fields/Item_Price__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order_Item__c/fields/Item_Price__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 369,
+            "modifiedTime": 1568113884000,
+            "changeTime": 1594936230338,
+            "contentHash": "992062b88ba08be8144f060a8887f14ae67558cc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order_Item__c/fields/Ordered_Quantity__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order_Item__c/fields/Ordered_Quantity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 405,
+            "modifiedTime": 1568113884000,
+            "changeTime": 1594936230339,
+            "contentHash": "14abbd33827817a9f761fb73ce44fa718ae671fe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order_Item__c/fields/Related_Order__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order_Item__c/fields/Related_Order__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 613,
+            "modifiedTime": 1568488644000,
+            "changeTime": 1594936230337,
+            "contentHash": "9f84f1ca65e818442f20ac1c39a09aa3eda38cfe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order_Item__c/listViews",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order_Item__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1568113884000,
+            "changeTime": 1594936230336,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order_Item__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order_Item__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1568113884000,
+            "changeTime": 1594936230336,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1568113884000,
+            "changeTime": 1594936230382,
+            "contentHash": "7a36ac2ad7fc1451ef3d2755ae9a4789394241da",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/Order__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/Order__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2110,
+            "modifiedTime": 1568113884000,
+            "changeTime": 1594936230377,
+            "contentHash": "4ff6052d2f12c6d2e943ce5a00f069844bf91449",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/fields",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/fields",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1568113884000,
+            "changeTime": 1594936230381,
+            "contentHash": "fca3ecc50da65829ddd2f5178cca251e211fff41",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/fields/Cart__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/fields/Cart__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 490,
+            "modifiedTime": 1568113884000,
+            "changeTime": 1594936230379,
+            "contentHash": "0d1829d7c553b9f308a965dbf7c37fa6fc1bab68",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/fields/Order_Amount__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/fields/Order_Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 469,
+            "modifiedTime": 1568113884000,
+            "changeTime": 1594936230380,
+            "contentHash": "134f5744f2e7fdb7af2a4dab693107636c594891",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/fields/Order_Discount__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/fields/Order_Discount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 488,
+            "modifiedTime": 1568113884000,
+            "changeTime": 1594936230381,
+            "contentHash": "f7f1fbe53c726290f3ae734bd8eadaa7c38be114",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/fields/Shipping_Address__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/fields/Shipping_Address__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 522,
+            "modifiedTime": 1568113884000,
+            "changeTime": 1594936230379,
+            "contentHash": "5eb90a7294a5fe427727e6879e9198714524e2b1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/fields/User__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/fields/User__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 437,
+            "modifiedTime": 1568113884000,
+            "changeTime": 1594936230380,
+            "contentHash": "7174cd9c2be2e255245eae72bb869f89d7a4ce16",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/fields/subTotal__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/fields/subTotal__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 364,
+            "modifiedTime": 1568113884000,
+            "changeTime": 1594936230381,
+            "contentHash": "c49f0cd6d9be704e096e6f87d1bc9fbffbdf7ea8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/listViews",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1568113884000,
+            "changeTime": 1594936230378,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/objects/Order__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 409,
+            "modifiedTime": 1568113884000,
+            "changeTime": 1594936230378,
+            "contentHash": "bd1c3ba36b595208350010d6ac399e39db9925d3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1594936186065,
+            "changeTime": 1594936186065,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1594957007035,
+            "changeTime": 1594957007035,
+            "contentHash": "bf45285ac7ffbb393aab8fbd658860c7cd30e20d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1594936186066,
+            "changeTime": 1594936186066,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/triggers",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/triggers",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1594936186066,
+            "changeTime": 1594936186066,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT",
+            "isDirectory": true,
+            "size": 512,
+            "modifiedTime": 1594936223049,
+            "changeTime": 1594936223049,
+            "contentHash": "c93e82578662ebb2b8ae26bf173ef026f15830cf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerSearch",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerSearch",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1594946872971,
+            "changeTime": 1594946872971,
+            "contentHash": "2434253768c9cf1b0bc0303720efbb3ac2ffcc1a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerTile",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerTile",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1594948179735,
+            "changeTime": 1594948179735,
+            "contentHash": "6f4d25b379d211d34639f44f18b5329b9ff24241",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerSearch/beerSearch.html",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerSearch/beerSearch.html",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1594947961502,
+            "changeTime": 1594947961502,
+            "contentHash": "4c5169d154b05fb3ff34d792537bc5d855656135",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerSearch/beerSearch.js",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerSearch/beerSearch.js",
+            "isDirectory": false,
+            "size": 358,
+            "modifiedTime": 1594954473828,
+            "changeTime": 1594954473828,
+            "contentHash": "bb6170859a3490c6e5e069f0ce6e3e3c6ee21fdd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerSearch/beerSearch.js-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerSearch/beerSearch.js-meta.xml",
+            "isDirectory": false,
+            "size": 208,
+            "modifiedTime": 1594946872971,
+            "changeTime": 1594946872971,
+            "contentHash": "c04516a694799f5b63949274cfff3c09134ff3be",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerTile/beerTile.html",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerTile/beerTile.html",
+            "isDirectory": false,
+            "size": 841,
+            "modifiedTime": 1594952545258,
+            "changeTime": 1594952545258,
+            "contentHash": "1b547f52105471ef858e3793433c93df95073b47",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerTile/beerTile.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerTile/beerTile.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 307,
+            "modifiedTime": 1594958603498,
+            "changeTime": 1594958603498,
+            "contentHash": "cbff7c4f1dd79cc42e87beec3752098f35829db8"
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerTile/beerTile.js-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerTile/beerTile.js-meta.xml",
+            "isDirectory": false,
+            "size": 208,
+            "modifiedTime": 1594948179735,
+            "changeTime": 1594948179735,
+            "contentHash": "c04516a694799f5b63949274cfff3c09134ff3be",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerList",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerList",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1594950939383,
+            "changeTime": 1594950939383,
+            "contentHash": "9012c73b591a35c457861738e491b23475451824",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/classes/BeerController.cls",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/classes/BeerController.cls",
+            "isDirectory": false,
+            "size": 3903,
+            "modifiedTime": 1594956027730,
+            "changeTime": 1594956027730,
+            "contentHash": "ab6330c107b9324df596946aa4946ea2cac1ea17",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/classes/BeerController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/classes/BeerController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1594949069309,
+            "changeTime": 1594949069309,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerList/beerList.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerList/beerList.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1375,
+            "modifiedTime": 1594958831838,
+            "changeTime": 1594958831838,
+            "contentHash": "db41a91b61c162f55666d3ce77a98f4f4fba0675"
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerList/beerList.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerList/beerList.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1725,
+            "modifiedTime": 1594958839427,
+            "changeTime": 1594958839427,
+            "contentHash": "8c8b339b92e609b51209c45dead69bb577839581"
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerList/beerList.js-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/lwc/beerList/beerList.js-meta.xml",
+            "isDirectory": false,
+            "size": 418,
+            "modifiedTime": 1594951527245,
+            "changeTime": 1594951527245,
+            "contentHash": "66322682f549360c4342a9c7fb3752fee73533e4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/staticresources/cart.png",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/staticresources/cart.png",
+            "isDirectory": false,
+            "size": 8707,
+            "modifiedTime": 1594957007035,
+            "changeTime": 1594957007035,
+            "contentHash": "05e661c647855e31cf0b86c187d856c4b9fd2187",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/staticresources/cart.resource-meta.xml",
+        {
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/LWC_PROJECT/force-app/main/default/staticresources/cart.resource-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1594957152898,
+            "changeTime": 1594957152898,
+            "contentHash": "1913ed0b742a9bf3290318f9c4ed925e3508c0cb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]

@@ -1,0 +1,557 @@
+[
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1594589858875,
+            "changeTime": 1594589858875,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1594589858875,
+            "changeTime": 1594589858875,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 448,
+            "modifiedTime": 1594589858953,
+            "changeTime": 1594589858953,
+            "contentHash": "134fb9100108b9aaba9aee713cf235d514fd8f88",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1594589858875,
+            "changeTime": 1594589858875,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1594591637653,
+            "changeTime": 1594591637653,
+            "contentHash": "90c0e229bb7bee09ad4067ae8bf7006368ed2abd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura/lwcapplication",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura/lwcapplication",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1594591637660,
+            "changeTime": 1594591637660,
+            "contentHash": "19fde683e8dba7b7af3ffa00efc3c891306c4c03",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura/lwcapplication/lwcapplication.app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura/lwcapplication/lwcapplication.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 109,
+            "modifiedTime": 1594615847701,
+            "changeTime": 1594615847701,
+            "contentHash": "0ea9f80601195960bc37c60b230d232cdd8248db",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura/lwcapplication/lwcapplication.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura/lwcapplication/lwcapplication.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 229,
+            "modifiedTime": 1594591637654,
+            "changeTime": 1594591637654,
+            "contentHash": "482dd11b6a9477e7078021eb6fca97aa73ea7918",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura/lwcapplication/lwcapplication.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura/lwcapplication/lwcapplication.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1594591637655,
+            "changeTime": 1594591637655,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura/lwcapplication/lwcapplication.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura/lwcapplication/lwcapplication.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1594591637655,
+            "changeTime": 1594591637655,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura/lwcapplication/lwcapplication.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura/lwcapplication/lwcapplication.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1594591637660,
+            "changeTime": 1594591637660,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura/lwcapplication/lwcapplicationController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura/lwcapplication/lwcapplicationController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1594591637655,
+            "changeTime": 1594591637655,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura/lwcapplication/lwcapplicationHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura/lwcapplication/lwcapplicationHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1594591637659,
+            "changeTime": 1594591637659,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura/lwcapplication/lwcapplicationRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/aura/lwcapplication/lwcapplicationRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1594591637659,
+            "changeTime": 1594591637659,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1594589858875,
+            "changeTime": 1594589858875,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/contentassets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1594589858876,
+            "changeTime": 1594589858876,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1594589858876,
+            "changeTime": 1594589858876,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1594589858876,
+            "changeTime": 1594589858876,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1594614961545,
+            "changeTime": 1594614961545,
+            "contentHash": "547c1a0fab9201c2844386574507282d73b04c7d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/calculatorCmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/calculatorCmp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1594589911774,
+            "changeTime": 1594589911774,
+            "contentHash": "77061a8f8f200f54bff8926c901aa3b269de7762",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/calculatorCmp/calculatorCmp.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/calculatorCmp/calculatorCmp.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1686,
+            "modifiedTime": 1594597240010,
+            "changeTime": 1594597240010,
+            "contentHash": "027b3d96b97e5a8766b797523af38ea71b463a0a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/calculatorCmp/calculatorCmp.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/calculatorCmp/calculatorCmp.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1257,
+            "modifiedTime": 1594597400330,
+            "changeTime": 1594597400330,
+            "contentHash": "bec8fbe06720918849aa9174ba003a29101d077b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/calculatorCmp/calculatorCmp.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/calculatorCmp/calculatorCmp.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1594589911774,
+            "changeTime": 1594589911774,
+            "contentHash": "c04516a694799f5b63949274cfff3c09134ff3be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/contactList",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/contactList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1594614945645,
+            "changeTime": 1594614945645,
+            "contentHash": "e5aa375b968aad2fcf48b45e0b0aedc0c6f7b0d9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/contactList/contactList.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/contactList/contactList.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 383,
+            "modifiedTime": 1594615817408,
+            "changeTime": 1594615817408,
+            "contentHash": "e18b8ccec47c6bb3bae14c9197761e815c2e58be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/contactList/contactList.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/contactList/contactList.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 580,
+            "modifiedTime": 1594615433695,
+            "changeTime": 1594615433695,
+            "contentHash": "e7883f05a98e81f5c56bf92e603accdc3e0b1dbe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/contactList/contactList.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/contactList/contactList.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1594614945645,
+            "changeTime": 1594614945645,
+            "contentHash": "c04516a694799f5b63949274cfff3c09134ff3be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/contactTile",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/contactTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1594614961547,
+            "changeTime": 1594614961547,
+            "contentHash": "fc73366db00f0ef35989e11b33839ee5f2b3872b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/contactTile/contactTile.html",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/contactTile/contactTile.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1594615850492,
+            "changeTime": 1594615850492,
+            "contentHash": "07a58db6883fc35c8c99db883987461913c570da",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/contactTile/contactTile.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/contactTile/contactTile.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 126,
+            "modifiedTime": 1594615436157,
+            "changeTime": 1594615436157,
+            "contentHash": "6d39281b62447121b3902e988a1ce27e0ef7892f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/contactTile/contactTile.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/lwc/contactTile/contactTile.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1594614961547,
+            "changeTime": 1594614961547,
+            "contentHash": "c04516a694799f5b63949274cfff3c09134ff3be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1594589858876,
+            "changeTime": 1594589858876,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1594589858876,
+            "changeTime": 1594589858876,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/staticresources",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1594589858876,
+            "changeTime": 1594589858876,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1594589858876,
+            "changeTime": 1594589858876,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/triggers",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc/force-app/main/default/triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1594589858876,
+            "changeTime": 1594589858876,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rekhareddyasani/WorkSpace/sfdccoding/udemy-lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 480,
+            "modifiedTime": 1594589865556,
+            "changeTime": 1594589865556,
+            "contentHash": "2218d6ac52298c604d0293e5657b75dae2251d50",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

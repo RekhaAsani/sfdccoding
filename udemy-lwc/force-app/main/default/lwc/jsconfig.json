@@ -1,0 +1,38 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/calculatorCmp": [
+                "calculatorCmp/calculatorCmp.js"
+            ],
+            "c/contactList": [
+                "contactList/contactList.js"
+            ],
+            "c/contactTile": [
+                "contactTile/contactTile.js"
+            ],
+            "c/quickCase": [
+                "quickCase/quickCase.js"
+            ],
+            "c/searchComponent": [
+                "searchComponent/searchComponent.js"
+            ],
+            "c/customLookup": [
+                "customLookup/customLookup.js"
+            ],
+            "c/recordList": [
+                "recordList/recordList.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ],
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
+}

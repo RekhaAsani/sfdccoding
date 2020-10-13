@@ -1,0 +1,1 @@
+{"errors":[{"filename":"/Users/rekhareddyasani/WorkSpace/sfdccoding/ToDo-Manager/force-app/main/default/lwc/toDoManager/toDoManager.html","location":{"line":28,"column":16,"start":1454,"length":71},"code":"","message":"<c-to-do-item> has no matching closing tag."}]}

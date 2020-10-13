@@ -1,0 +1,149 @@
+{
+    "serverMaxRevisionCounter": 73,
+    "sourceMembers": {
+        "AuraDefinitionBundle__LwcApp": {
+            "serverRevisionCounter": 22,
+            "lastRetrievedFromServer": 22,
+            "memberType": "AuraDefinitionBundle",
+            "isNameObsolete": false
+        },
+        "AuraDefinitionBundle__auraforlwc": {
+            "serverRevisionCounter": 9,
+            "lastRetrievedFromServer": 9,
+            "memberType": "AuraDefinitionBundle",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__LwcApp/LwcApp.app": {
+            "serverRevisionCounter": 23,
+            "lastRetrievedFromServer": 23,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__LwcApp/LwcAppController.js": {
+            "serverRevisionCounter": 24,
+            "lastRetrievedFromServer": 24,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__LwcApp/LwcAppHelper.js": {
+            "serverRevisionCounter": 25,
+            "lastRetrievedFromServer": 25,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__LwcApp/LwcApp.css": {
+            "serverRevisionCounter": 26,
+            "lastRetrievedFromServer": 26,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__LwcApp/LwcApp.auradoc": {
+            "serverRevisionCounter": 27,
+            "lastRetrievedFromServer": 27,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__LwcApp/LwcAppRenderer.js": {
+            "serverRevisionCounter": 28,
+            "lastRetrievedFromServer": 28,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__LwcApp/LwcApp.svg": {
+            "serverRevisionCounter": 29,
+            "lastRetrievedFromServer": 29,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__auraforlwc/auraforlwc.cmp": {
+            "serverRevisionCounter": 10,
+            "lastRetrievedFromServer": 10,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__auraforlwc/auraforlwcController.js": {
+            "serverRevisionCounter": 11,
+            "lastRetrievedFromServer": 11,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__auraforlwc/auraforlwcHelper.js": {
+            "serverRevisionCounter": 12,
+            "lastRetrievedFromServer": 12,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__auraforlwc/auraforlwc.css": {
+            "serverRevisionCounter": 13,
+            "lastRetrievedFromServer": 13,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__auraforlwc/auraforlwc.auradoc": {
+            "serverRevisionCounter": 17,
+            "lastRetrievedFromServer": 17,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__auraforlwc/auraforlwcRenderer.js": {
+            "serverRevisionCounter": 14,
+            "lastRetrievedFromServer": 14,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__auraforlwc/auraforlwc.design": {
+            "serverRevisionCounter": 15,
+            "lastRetrievedFromServer": 15,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__auraforlwc/auraforlwc.svg": {
+            "serverRevisionCounter": 16,
+            "lastRetrievedFromServer": 16,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__dataBinding": {
+            "serverRevisionCounter": 67,
+            "lastRetrievedFromServer": 67,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__dataBinding/dataBinding.js-meta.xml": {
+            "serverRevisionCounter": 69,
+            "lastRetrievedFromServer": 69,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__dataBinding/dataBinding.html": {
+            "serverRevisionCounter": 70,
+            "lastRetrievedFromServer": 70,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__dataBinding/dataBinding.js": {
+            "serverRevisionCounter": 71,
+            "lastRetrievedFromServer": 71,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__dataBinding/dataBinding.css": {
+            "serverRevisionCounter": 68,
+            "lastRetrievedFromServer": 68,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__dataBinding/templateOne.html": {
+            "serverRevisionCounter": 73,
+            "lastRetrievedFromServer": 73,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__dataBinding/templateTwo.html": {
+            "serverRevisionCounter": 72,
+            "lastRetrievedFromServer": 72,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        }
+    }
+}
